@@ -12,7 +12,7 @@
 #include <pcl/visualization/pcl_visualizer.h>
 #include <time.h>
 #include <boost/thread/thread.hpp>
-
+hhhhhhhhh
 
 using pcl::NormalEstimation;
 using pcl::search::KdTree;
